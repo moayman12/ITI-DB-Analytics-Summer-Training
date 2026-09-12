@@ -13,7 +13,11 @@ This repository documents my progress through the **Data Analytics & BI Track (P
 | Folder | Description |
 |---|---|
 | `Lab 1/` | ER Diagram design for 4 case studies (Musicana Records, Real Estate Firm, General Hospital, Airline Company) |
-| `Lab 2/` | Mapping the Lab 1 ER diagrams into relational schemas (tables, keys, foreign keys) |
+| `Lab 2/` | Part 1: Mapping the Lab 1 ER diagrams into relational schemas · Part 2: Creating the Company DB and basic queries |
+| `Lab 3/` | SQL joins, filtering & DML on the Company DB |
+| `Lab 4/` | Advanced DQL — aggregation, subqueries, `UNION`, `EXISTS`, and DML scenarios on the Company DB |
+| `Lab 5/` | Advanced SQL Server — views & queries on the ITI DB (Part 1) and AdventureWorks DB (Part 2) |
+| `Lab 6/` | Stored procedures & triggers on SQL Server |
 
 *(More folders will be added here as new labs/days are completed.)*
 
